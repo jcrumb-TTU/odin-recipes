@@ -7,3 +7,6 @@ This project is a basic html layout of a collection of recipes that the author p
 and is meant to demonstrate basic knowledge of HTML and file organization principles. Additionally,
 the project is meant to demonstrate working knowledge of effective commit messages, commit pratices,
 and documentation.
+
+Attributions for images: steak.jpg, https://unsplash.com/photos/fried-fish-on-black-frying-pan-HhbcIhf9vho
+
